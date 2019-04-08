@@ -20,7 +20,7 @@ Start from scratch using the [ Spring Boot Initializr](https://start.spring.io/)
 Create a Spring Boot application for recording employee data that has:
 
 - An Employee class that conforms to POJO and is annotated with fields `name`, `age`, `employeeNumber` and `email`.
-- A repostory for doing database operations
+- A repostory for doing database operations :white_check_mark:​
 - A RestController with one route for getting a JSON list of all Employees.
 
 ## Planning
